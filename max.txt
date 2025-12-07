@@ -1,0 +1,5 @@
+out.max_emp :: max(in.emp);
+out.min_emp :: min(in.emp);
+out.total_emp :: sum(in.emp);
+out.count_emp :: count(in.emp);
+out.avg_emp :: sum(in.emp)/count(in.emp);
