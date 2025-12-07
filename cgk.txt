@@ -13,5 +13,5 @@ computation/finalise
 out.rank :: temp.rank;
 out.dept :: in.dept;
 
-FBE
+----FBE-----
 rank <=3
